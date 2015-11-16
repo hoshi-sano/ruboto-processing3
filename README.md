@@ -4,18 +4,21 @@ processing 3 android mode on ruboto.
 
 ## Usage
 
-1. clone this repository.
+* clone this repository.
 
-2. edit `src/sketch.rb` as you like.
+* edit `src/sketch.rb` as you like.
 
-3. execute the below commands.
+* execute the below commands.
 
 ```
   $ cd ruboto-processing3
+  $ android update project -p .
   $ rake install
 ```
 
-4. run the ruboto-processing app on your device/emulator.
+* run the ruboto-processing app on your device/emulator.
+
+![](https://github.com/hoshi-sano/ruboto-processing3/wiki/images/ruboto-processing3.png)
 
 ## Tips
 
